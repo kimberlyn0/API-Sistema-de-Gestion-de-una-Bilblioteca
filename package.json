@@ -1,0 +1,14 @@
+{
+  "name": "sistema-de-gestion-biblioteca",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de una biblioteca",
+  "main": "sistema de gestión de una biblioteca.js",
+  "scripts": {
+    "start": "node sistema de gestión de una biblioteca.js"
+  },
+  "author": "Kimberlyn Esther Peguero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
