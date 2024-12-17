@@ -1,5 +1,5 @@
 const express = require('express');
-const { Autor, Libro, Biblioteca } = require('../biblioteca.js');
+const { Autor, Libro, Biblioteca } = require('../biblioteca');
 const cors = require("cors");
 
 const app = express();
